@@ -1,0 +1,5 @@
+Este es un documento de texto plano
+
+Es un ejercicio del curso de Git y GitHub
+
+Vamos a trabajar
