@@ -1,5 +1,6 @@
 Este es un documento de texto plano
 
-Es un ejercicio del curso de Git y GitHub
+Es un ejercicio del curso de Platzi de Git y GitHub
+Aprendiendo mucho
 
-Vamos a trabajar
+Vamos a descansar
