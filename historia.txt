@@ -3,4 +3,6 @@ Este es un documento de texto plano
 Es un ejercicio del curso de Platzi de Git y GitHub
 Aprendiendo mucho
 
+Master 1
+
 Vamos a descansar, por que seguiremos estudiando
